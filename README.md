@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LaeeqtheDev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @LaeeqtheDev.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning React Redux.
+- 💞️ I’m looking to collaborate on React Projects.
+- 📫 Reach me : laeeqe@icloud.com
 
 <!---
 LaeeqtheDev/LaeeqtheDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
