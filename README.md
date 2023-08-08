@@ -12,7 +12,7 @@ I'm Syed Laeeq Ahmed, an accomplished Fullstack Developer renowned for my prowes
 
 🔧 **Skill Set**:
 
-- 🌐 HTML, CSS, Bootstrap: Mastery over fundamental web constructs.
+- 🌐 HTML, CSS, Bootstrap, Tailwind: Mastery over fundamental web constructs.
 - 🚀 JavaScript, React JS, TypeScript, jQuery: Crafting fluid, intuitive user interfaces.
 - 📊 Firebase, Sanity.io, MongoDB: Profound database mastery for data-driven excellence.
 - 🚀 Node.js: Building scalable server-side applications.
