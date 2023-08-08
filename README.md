@@ -11,11 +11,13 @@ I'm Syed Laeeq Ahmed, an accomplished Fullstack Developer renowned for my prowes
 🔍 Beyond the horizon of coding, my insatiable curiosity fuels my continuous quest for self-improvement. I leverage this drive to embark on exploratory journeys, experimenting with novel technology amalgamations and pioneering innovative solutions.
 
 🔧 **Skill Set**:
-1. 🌐 HTML, CSS, Bootstrap: Mastery over fundamental web constructs.
-2. 🚀 JavaScript, React JS, jQuery: Crafting fluid, intuitive user interfaces.
-3. 📊 Firebase, Sanity, MongoDB: Profound database mastery for data-driven excellence.
-4. 🚀 Agile Methodology: Navigating software development with strategic agility.
-5. 🛠️ Dev Tools Proficiency: Harnessing Reactide, React Site, Code Sandbox, Storybook, Bit - forging the path to technical excellence.
+
+- 🌐 HTML, CSS, Bootstrap: Mastery over fundamental web constructs.
+- 🚀 JavaScript, React JS, TypeScript, jQuery: Crafting fluid, intuitive user interfaces.
+- 📊 Firebase, Sanity.io, MongoDB: Profound database mastery for data-driven excellence.
+- 🚀 Node.js: Building scalable server-side applications.
+- ☁️ AWS, Google Cloud Platform: Leveraging cloud capabilities for robust solutions.
+- 🛠️ Dev Tools Proficiency: Harnessing Reactide, React Site, Code Sandbox, Storybook, Bit - forging the path to technical excellence.
 
 🔥 Eager to connect and embark on transformative challenges, I welcome correspondence at "laeeqahmed646@gmail.com" / "laeeqe@icloud.com" . Let us unite in our pursuit of pushing technological boundaries and shaping a future defined by innovation.
 
