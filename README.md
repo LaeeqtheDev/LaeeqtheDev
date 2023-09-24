@@ -1,4 +1,4 @@
-👋 Accomplished Fullstack Developer | Startup Catalyst | Technology Visionary
+👋 Accomplished Frontend Developer | Startup Catalyst | Technology Visionary
 
 Greetings,
 
