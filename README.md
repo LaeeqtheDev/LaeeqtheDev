@@ -2,7 +2,7 @@
 
 Greetings,
 
-I'm Syed Laeeq Ahmed, an accomplished Fullstack Developer renowned for my prowess in architecting cutting-edge solutions that harness the power of the latest technologies. My expertise spans from React.js to Next.js, allowing me to engineer dynamic virtual ecosystems that empower startups to thrive.
+I'm Syed Laeeq Ahmed, an accomplished Frontend Developer renowned for my prowess in architecting cutting-edge solutions that harness the power of the latest technologies. My expertise spans from React.js to Next.js, allowing me to engineer dynamic virtual ecosystems that empower startups to thrive.
 
 🛠️ Armed with a comprehensive skill set, I meticulously weave intricate challenges into elegant, user-centric solutions. My proficiency extends to a curated suite of technologies, including Reactide, React Site, Code Sandbox, Storybook, and Bit, among others.
 
