@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/laeeqthedev" target="blank"><img src="https://img.shields.io/twitter/follow/laeeqthedev?logo=twitter&style=for-the-badge" alt="laeeqthedev" /></a> </p>
 
-- 🔭 I’m currently working on [Healthcare Pulse](https://github.com/LaeeqtheDev/healthcare)
+- 🔭 I’m currently working on [ThreadWave](https://github.com/LaeeqtheDev/threadwave)
 
 - 🌱 I’m expanding my skills **in AI and getting up to speed with the latest developments**
 
