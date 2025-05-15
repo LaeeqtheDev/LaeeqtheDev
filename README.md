@@ -33,6 +33,8 @@ I'm passionate about transforming real-world challenges into clean, performant d
 
 “Fullstack developer by day, gamer by night — balancing code and consoles like a pro.”
 
+---
+
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
