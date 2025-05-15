@@ -26,14 +26,6 @@ I'm passionate about transforming real-world challenges into clean, performant d
 - Collaborating on a **collaborative editor tool**  
 - Exploring **AI & LLM integrations** in SaaS platforms
 
----
-
-### 📫 Let’s Connect
-
-- 🌐 Portfolio: [laeeqthedevportfolio.vercel.app](https://laeeqthedevportfolio.vercel.app)  
-- 💼 LinkedIn: [syed-laeeq-ahmed](https://www.linkedin.com/in/syed-laeeq-ahmed/)  
-- 📧 Email: **laeeqahmed656@gmail.com**  
-- 🐦 Twitter: [@laeeqthedev](https://twitter.com/laeeqthedev)
 
 ---
 
@@ -41,6 +33,14 @@ I'm passionate about transforming real-world challenges into clean, performant d
 
 “Fullstack developer by day, gamer by night — balancing code and consoles like a pro.”
 
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,typescript,javascript,redux,figma,firebase,vercel,git,github,vscode" />
+</p>
+
+
+---
 
 ### 🚀 Featured Projects
 
@@ -78,14 +78,17 @@ I'm passionate about transforming real-world challenges into clean, performant d
 </table>
 
 
+
 ---
+### 📫 Let’s Connect
+
+- 🌐 Portfolio: [laeeqthedevportfolio.vercel.app](https://laeeqthedevportfolio.vercel.app)  
+- 💼 LinkedIn: [syed-laeeq-ahmed](https://www.linkedin.com/in/syed-laeeq-ahmed/)  
+- 📧 Email: **laeeqahmed656@gmail.com**  
+- 🐦 Twitter: [@laeeqthedev](https://twitter.com/laeeqthedev)
 
 
-### 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,typescript,javascript,redux,figma,firebase,vercel,git,github,vscode" />
-</p>
 
 ---
 
