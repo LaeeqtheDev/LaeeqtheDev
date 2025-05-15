@@ -2,7 +2,9 @@
 <h3 align="center">Founder | Fullstack Developer | React/Next.js Specialist | Logistics SaaS Builder</h3>
 
 <p align="center">
-  <a href="https://laeeqthedevportfolio.vercel.app" target="_blank"><img src="https://komarev.com/ghpvc/?username=laeeqthedev&label=Portfolio%20Views&color=0e75b6&style=flat" alt="Portfolio views" /></a>
+  <a href="https://laeeqthedevportfolio.vercel.app" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=laeeqthedev&label=Portfolio%20Views&color=0e75b6&style=flat" alt="Portfolio views" />
+  </a>
 </p>
 
 ---
@@ -11,8 +13,8 @@
 
 I’m a frontend-focused fullstack developer with 4+ years of hands-on experience in building modern, scalable, and high-performance web applications. I'm also the founder of:
 
-- 🚛 **[RouteLane](https://routelane.vercel.app)** – A trucking dispatch company optimizing logistics in the U.S.
-- 🧾 **[InvoiceStock](https://invoicestock.vercel.app)** – A full-featured inventory & invoicing SaaS for SMEs
+- 🚛 **[RouteLane](https://routelane.vercel.app)** – A trucking dispatch company optimizing logistics in the U.S.  
+- 🧾 **[InvoiceStock](https://invoicestock.vercel.app)** – A full-featured inventory & invoicing SaaS for SMEs  
 
 I'm passionate about transforming real-world challenges into clean, performant digital solutions.
 
@@ -20,18 +22,18 @@ I'm passionate about transforming real-world challenges into clean, performant d
 
 ### 💼 Currently Working On
 
-- Building & scaling **InvoiceStock** for global deployment
-- Collaborating on a **collaborative editor tool**
+- Building & scaling **InvoiceStock** for global deployment  
+- Collaborating on a **collaborative editor tool**  
 - Exploring **AI & LLM integrations** in SaaS platforms
 
 ---
 
 ### 📫 Let’s Connect
 
-- Portfolio: [laeeqthedevportfolio.vercel.app](https://laeeqthedevportfolio.vercel.app)
-- LinkedIn: [syed-laeeq-ahmed](https://www.linkedin.com/in/syed-laeeq-ahmed/)
-- Email: **laeeqahmed656@gmail.com**
-- Twitter: [@laeeqthedev](https://twitter.com/laeeqthedev)
+- 🌐 Portfolio: [laeeqthedevportfolio.vercel.app](https://laeeqthedevportfolio.vercel.app)  
+- 💼 LinkedIn: [syed-laeeq-ahmed](https://www.linkedin.com/in/syed-laeeq-ahmed/)  
+- 📧 Email: **laeeqahmed656@gmail.com**  
+- 🐦 Twitter: [@laeeqthedev](https://twitter.com/laeeqthedev)
 
 ---
 
@@ -43,19 +45,22 @@ I'm passionate about transforming real-world challenges into clean, performant d
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,typescript,javascript,redux,figma,firebase,vercel,git,github,vscode" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LaeeqtheDev&show_icons=true&theme=default&hide_title=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LaeeqtheDev&theme=default" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LaeeqtheDev&show_icons=true&theme=default&hide_title=true" />
 </p>
 
-<p align="left">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaeeqtheDev&theme=default" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=laeeqthedev&row=1&column=6" />
 </p>
