@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React.js, React Native, Next.js, Node.js, AI**
 
-- 📫 How to reach me **laeeqe@icloud.com**
+- 📫 How to reach me **laeeqahmed656@gmail.com**
 
 - ⚡ Fun fact **“Full-stack developer by day, gamer by night—balancing code and consoles like a pro!”**
 
