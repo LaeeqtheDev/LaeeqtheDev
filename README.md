@@ -41,31 +41,6 @@ I'm passionate about transforming real-world challenges into clean, performant d
 
 “Fullstack developer by day, gamer by night — balancing code and consoles like a pro.”
 
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,typescript,javascript,redux,figma,firebase,vercel,git,github,vscode" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaeeqtheDev&show_icons=true&theme=default&hide_title=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaeeqtheDev&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laeeqthedev&row=1&column=6" />
-</p>
-
----
 
 ### 🚀 Featured Projects
 
@@ -101,3 +76,32 @@ I'm passionate about transforming real-world challenges into clean, performant d
     </td>
   </tr>
 </table>
+
+
+---
+
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,typescript,javascript,redux,figma,firebase,vercel,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LaeeqtheDev&show_icons=true&theme=default&hide_title=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaeeqtheDev&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=laeeqthedev&row=1&column=6" />
+</p>
+
+---
+
