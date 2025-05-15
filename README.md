@@ -64,3 +64,40 @@ I'm passionate about transforming real-world challenges into clean, performant d
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=laeeqthedev&row=1&column=6" />
 </p>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td><strong>🧾 InvoiceStock</strong></td>
+    <td>
+      <a href="https://invoicestock.vercel.app" target="_blank">Live</a> | 
+      <a href="https://github.com/LaeeqtheDev/invoicestock" target="_blank">Code</a><br/>
+      Inventory & invoicing SaaS for SMEs with multi-currency, barcode scanning, reports, and hardware compatibility.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🏠 Locopro</strong></td>
+    <td>
+      <a href="https://locopro-client.vercel.app" target="_blank">Live</a> | 
+      <a href="https://github.com/LaeeqtheDev/locopro" target="_blank">Code</a><br/>
+      Real estate platform with listing filters, property dashboards, and AI chatbot — built using the MERN stack.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🚑 Healthcare</strong></td>
+    <td>
+      <a href="https://github.com/LaeeqtheDev/healthcare" target="_blank">Code</a><br/>
+      Patient & appointment management system using Appwrite and Twilio with admin control and SMS notifications.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🚗 Ryde</strong></td>
+    <td>
+      <a href="https://github.com/LaeeqtheDev/ryde" target="_blank">Code</a><br/>
+      Ride-booking platform with clean mobile-first UI, booking flow, and driver assignment logic.
+    </td>
+  </tr>
+</table>
