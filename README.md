@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Laeeq Ahmed</h1>
-<h3 align="center">Frontend-Focused Fullstack Developer | React/Next.js Specialist | SaaS Engineer</h3>
+<h3 align="center">Frontend Developer | React/Next.js Specialist | SaaS Engineer</h3>
 
 <p align="center">
   <a href="https://laeeqthedevportfolio.vercel.app" target="_blank">
@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-I’m a frontend-focused fullstack developer with 4+ years of hands-on experience building scalable, high-performance SaaS platforms and web applications. I specialize in:
+I’m a frontend-focused developer with 4+ years of hands-on experience building scalable, high-performance SaaS platforms and web applications. I specialize in:
 
 - React.js / Next.js frontend engineering  
 - Firebase / MongoDB / REST API backend integrations  
@@ -21,7 +21,7 @@ I’m a frontend-focused fullstack developer with 4+ years of hands-on experienc
 
 - 🧾 [InvoiceStock](https://invoicestock.vercel.app) – a robust inventory & invoicing SaaS for SMEs  
 - 🚛 RouteLane – real-time dispatch software for U.S. trucking companies  
-- 🌍 Freelance portfolio – 10+ global projects in logistics, finance, e-commerce
+- 🌍 Freelance portfolio – 5+ global projects in logistics, finance, e-commerce
 
 I care deeply about developer experience, code quality, and building software that delivers real business value.
 
