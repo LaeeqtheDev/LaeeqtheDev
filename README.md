@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Laeeq Ahmed</h1>
-<h3 align="center">Founder | Fullstack Developer | React/Next.js Specialist | Logistics SaaS Builder</h3>
+<h3 align="center">Frontend-Focused Fullstack Developer | React/Next.js Specialist | SaaS Engineer</h3>
 
 <p align="center">
   <a href="https://laeeqthedevportfolio.vercel.app" target="_blank">
@@ -11,21 +11,27 @@
 
 ### 🚀 About Me
 
-I’m a frontend-focused fullstack developer with 4+ years of hands-on experience in building modern, scalable, and high-performance web applications. I'm also the founder of:
+I’m a frontend-focused fullstack developer with 4+ years of hands-on experience building scalable, high-performance SaaS platforms and web applications. I specialize in:
 
-- 🚛 **[RouteLane](https://routelane.vercel.app)** – A trucking dispatch company optimizing logistics in the U.S.  
-- 🧾 **[InvoiceStock](https://invoicestock.vercel.app)** – A full-featured inventory & invoicing SaaS for SMEs  
+- React.js / Next.js frontend engineering  
+- Firebase / MongoDB / REST API backend integrations  
+- Building production-grade tools with clean UI/UX, auth, payments, and real-time features
 
-I'm passionate about transforming real-world challenges into clean, performant digital solutions.
+📦 Projects I’ve built & shipped:
+
+- 🧾 [InvoiceStock](https://invoicestock.vercel.app) – a robust inventory & invoicing SaaS for SMEs  
+- 🚛 RouteLane – real-time dispatch software for U.S. trucking companies  
+- 🌍 Freelance portfolio – 10+ global projects in logistics, finance, e-commerce
+
+I care deeply about developer experience, code quality, and building software that delivers real business value.
 
 ---
 
 ### 💼 Currently Working On
 
-- Building & scaling **InvoiceStock** for global deployment  
-- Collaborating on a **collaborative editor tool**  
-- Exploring **AI & LLM integrations** in SaaS platforms
-
+- Scaling InvoiceStock for multi-region deployment  
+- Exploring real-time collaborative editing with WebRTC & Firebase  
+- Integrating LLM/AI features into practical SaaS tools
 
 ---
 
@@ -41,7 +47,6 @@ I'm passionate about transforming real-world challenges into clean, performant d
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,typescript,javascript,redux,figma,firebase,vercel,git,github,vscode" />
 </p>
 
-
 ---
 
 ### 🚀 Featured Projects
@@ -52,7 +57,7 @@ I'm passionate about transforming real-world challenges into clean, performant d
     <td>
       <a href="https://invoicestock.vercel.app" target="_blank">Live</a> | 
       <a href="https://github.com/LaeeqtheDev/invoicestock" target="_blank">Code</a><br/>
-      Inventory & invoicing SaaS for SMEs with multi-currency, barcode scanning, reports, and hardware compatibility.
+      Inventory & invoicing SaaS with multi-currency support, barcode scanning, reports, and POS compatibility.
     </td>
   </tr>
   <tr>
@@ -60,37 +65,33 @@ I'm passionate about transforming real-world challenges into clean, performant d
     <td>
       <a href="https://locopro-client.vercel.app" target="_blank">Live</a> | 
       <a href="https://github.com/LaeeqtheDev/locopro" target="_blank">Code</a><br/>
-      Real estate platform with listing filters, property dashboards, and AI chatbot — built using the MERN stack.
+      Real estate listing platform with filters, dashboards, and AI chatbot — built with Next.js and Firebase.
     </td>
   </tr>
   <tr>
     <td><strong>🚑 Healthcare</strong></td>
     <td>
       <a href="https://github.com/LaeeqtheDev/healthcare" target="_blank">Code</a><br/>
-      Patient & appointment management system using Appwrite and Twilio with admin control and SMS notifications.
+      Patient & appointment management system with Twilio SMS notifications and admin control.
     </td>
   </tr>
   <tr>
     <td><strong>🚗 Ryde</strong></td>
     <td>
       <a href="https://github.com/LaeeqtheDev/ryde" target="_blank">Code</a><br/>
-      Ride-booking platform with clean mobile-first UI, booking flow, and driver assignment logic.
+      Mobile-first ride-booking platform with booking logic, driver assignment, and role-based auth.
     </td>
   </tr>
 </table>
 
-
-
 ---
+
 ### 📫 Let’s Connect
 
-- 🌐 Portfolio: [laeeqthedevportfolio.vercel.app](https://laeeqthedevportfolio.vercel.app)  
-- 💼 LinkedIn: [syed-laeeq-ahmed](https://www.linkedin.com/in/syed-laeeq-ahmed/)  
-- 📧 Email: **laeeqahmed656@gmail.com**  
-- 🐦 Twitter: [@laeeqthedev](https://twitter.com/laeeqthedev)
-
-
-
+- 🌐 Portfolio: [laeeqthedevportfolio.vercel.app](https://laeeqthedevportfolio.vercel.app)  
+- 💼 LinkedIn: [syed-laeeq-ahmed](https://www.linkedin.com/in/syed-laeeq-ahmed/)  
+- 📧 Email: laeeqahmed656@gmail.com  
+- 🐦 Twitter: [@laeeqthedev](https://twitter.com/laeeqthedev)
 
 ---
 
@@ -107,6 +108,3 @@ I'm passionate about transforming real-world challenges into clean, performant d
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=laeeqthedev&row=1&column=6" />
 </p>
-
----
-
