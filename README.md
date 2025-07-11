@@ -1,110 +1,72 @@
-<h1 align="center">Hi 👋, I'm Syed Laeeq Ahmed</h1>
-<h3 align="center">Frontend Developer | React/Next.js Specialist | SaaS Engineer</h3>
+# 👋 Hi, I'm Syed Laeeq Ahmed
 
-<p align="center">
-  <a href="https://laeeqthedevportfolio.vercel.app" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=laeeqthedev&label=Portfolio%20Views&color=0e75b6&style=flat" alt="Portfolio views" />
-  </a>
-</p>
+**Frontend Developer | React / Next.js Specialist | SaaS Engineer**  
+🚀 Building scalable, production-grade apps with React, TypeScript, Firebase, and modern web stacks.
 
 ---
 
-### 🚀 About Me
+## 💼 About Me
 
-I’m a frontend-focused developer with 4+ years of hands-on experience building scalable, high-performance SaaS platforms and web applications. I specialize in:
+I’m a frontend-focused developer with **4+ years** of experience building real-world SaaS platforms, eCommerce tools, and internal apps. I specialize in:
 
-- React.js / Next.js frontend engineering  
-- Firebase / MongoDB / REST API backend integrations  
-- Building production-grade tools with clean UI/UX, auth, payments, and real-time features
+- ⚛️ **React / Next.js** for frontend engineering  
+- 🔐 Auth, role-based access, payments (Stripe / Clerk)  
+- 🧩 Real-time features with Firebase, WebSockets, and REST APIs  
+- 🧠 Scalable UI systems with TailwindCSS, Shadcn/UI  
+- 🛠️ Writing clean, testable code in **TypeScript**
 
-📦 Projects I’ve built & shipped:
-
-- 🧾 [InvoiceStock](https://invoicestock.vercel.app) – a robust inventory & invoicing SaaS for SMEs  
-- 🚛 RouteLane – real-time dispatch software for U.S. trucking companies  
-- 🌍 Freelance portfolio – 5+ global projects in logistics, finance, e-commerce
-
-I care deeply about developer experience, code quality, and building software that delivers real business value.
+I care deeply about **developer experience**, **UI performance**, and shipping products that deliver real value.
 
 ---
 
-### 💼 Currently Working On
+## 🔥 Featured Projects
 
-- Scaling InvoiceStock for multi-region deployment  
-- Exploring real-time collaborative editing with WebRTC & Firebase  
-- Integrating LLM/AI features into practical SaaS tools
-
----
-
-### ⚡ Fun Fact
-
-“Fullstack developer by day, gamer by night — balancing code and consoles like a pro.”
+### 🧾 [InvoiceStock](https://github.com/LaeeqtheDev/invoicestock)  
+**Inventory & invoicing SaaS** for SMEs – with barcode scanning, multi-currency support, and POS integration.  
+Tech: React, TypeScript, Firebase, Shadcn, Stripe
 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,typescript,javascript,redux,figma,firebase,vercel,git,github,vscode" />
-</p>
+### 🏠 [Locopro](https://github.com/LaeeqtheDev/locopro-client) • [Live Demo](https://locopro-client.vercel.app)  
+Zameen-style **real estate platform** with listing filters, user auth, and admin dashboards.  
+Tech: Next.js, Firebase, TailwindCSS
 
 ---
 
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td><strong>🧾 InvoiceStock</strong></td>
-    <td>
-      <a href="https://invoicestock.vercel.app" target="_blank">Live</a> | 
-      <a href="https://github.com/LaeeqtheDev/invoicestock" target="_blank">Code</a><br/>
-      Inventory & invoicing SaaS with multi-currency support, barcode scanning, reports, and POS compatibility.
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🏠 Locopro</strong></td>
-    <td>
-      <a href="https://locopro-client.vercel.app" target="_blank">Live</a> | 
-      <a href="https://github.com/LaeeqtheDev/locopro" target="_blank">Code</a><br/>
-      Real estate listing platform with filters, dashboards, and AI chatbot — built with Next.js and Firebase.
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🚑 Healthcare</strong></td>
-    <td>
-      <a href="https://github.com/LaeeqtheDev/healthcare" target="_blank">Code</a><br/>
-      Patient & appointment management system with Twilio SMS notifications and admin control.
-    </td>
-  </tr>
-  <tr>
-    <td><strong>🚗 Ryde</strong></td>
-    <td>
-      <a href="https://github.com/LaeeqtheDev/ryde" target="_blank">Code</a><br/>
-      Mobile-first ride-booking platform with booking logic, driver assignment, and role-based auth.
-    </td>
-  </tr>
-</table>
+### 🚗 [Ryde](https://github.com/LaeeqtheDev/Ryde)  
+Cross-platform **ride-hailing app** like Uber — with live tracking, booking logic, and in-app payments.  
+Tech: React Native, TypeScript, PostgreSQL, Stripe
 
 ---
 
-### 📫 Let’s Connect
-
-- 🌐 Portfolio: [laeeqthedevportfolio.vercel.app](https://laeeqthedevportfolio.vercel.app)  
-- 💼 LinkedIn: [syed-laeeq-ahmed](https://www.linkedin.com/in/syed-laeeq-ahmed/)  
-- 📧 Email: laeeqahmed656@gmail.com  
-- 🐦 Twitter: [@laeeqthedev](https://twitter.com/laeeqthedev)
+### 💰 [Subme](https://github.com/LaeeqtheDev/Subme)  
+A **creator subscription platform** with role-based access and Stripe-powered tiered content system.  
+Tech: Next.js, Clerk, Sanity, TailwindCSS, Stripe
 
 ---
 
-### 📊 GitHub Stats
+### 🛒 [Twave](https://github.com/LaeeqtheDev/twave)  
+Modern **eCommerce storefront** with Payload CMS customization, responsive UI, and high-performance TypeScript frontend.  
+Tech: Next.js, Payload CMS, TailwindCSS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaeeqtheDev&show_icons=true&theme=default&hide_title=true" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaeeqtheDev&theme=default" />
-</p>
+## 🧠 Currently Exploring
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laeeqthedev&row=1&column=6" />
-</p>
+- 🔄 Real-time collaboration (WebRTC, Yjs, Firebase)
+- 🤖 AI-powered features in frontend tools (OpenAI, LangChain)
+- 🧪 Testing & DX improvements with Playwright, Storybook
+
+---
+
+## 🔗 Connect with Me
+
+- 🌐 [Portfolio Website](https://laeeqthedevportfolio.vercel.app)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/syed-laeeq-ahmed)  
+- 🐦 [Twitter](https://twitter.com/laeeqthedev)  
+- 📧 laeeqahmed656@gmail.com
+
+---
+
+<!-- Optional: GitHub Stats -->
+<!-- ![Laeeq's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LaeeqtheDev&show_icons=true&theme=radical) -->
