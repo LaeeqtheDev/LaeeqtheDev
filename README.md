@@ -7,7 +7,7 @@
 
 ## 💼 About Me
 
-I’m a frontend-focused developer with **4+ years** of experience building real-world SaaS platforms, eCommerce tools, and internal apps. I specialize in:
+I’m a frontend-focused fullstack developer with **4+ years** of experience building real-world SaaS platforms, eCommerce tools, and internal apps. I specialize in:
 
 - ⚛️ **React / Next.js** for frontend engineering  
 - 🔐 Auth, role-based access, payments (Stripe / Clerk)  
