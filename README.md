@@ -1,4 +1,4 @@
-# Syed Laeeq Ahmed — Full Stack JavaScript Developer (5+ yrs)
+# Syed Laeeq Ahmed — Full Stack JavaScript Developer
 
 Building scalable, high-performance SaaS and web apps with **React, Next.js, Node.js, and TypeScript** — engineered for reliability, speed, and clean architecture.
 
