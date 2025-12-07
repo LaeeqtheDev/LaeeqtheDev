@@ -1,59 +1,154 @@
-# Syed Laeeq Ahmed — Full Stack JavaScript Developer
 
-Building scalable, high-performance SaaS and web apps with **React, Next.js, Node.js, and TypeScript** — engineered for reliability, speed, and clean architecture.
 
----
+# 🎯 **Syed Laeeq — Full-Stack JavaScript Engineer (5+ Yrs)**
 
-### ⚡ Quick Snapshot
-- 🧠 5+ years crafting full-stack solutions across UK, US, and remote teams.  
-- 🚀 Cut app load times by **28%** and reduced post-release bugs by **25%** via reusable UI systems & clean code practices.  
-- 🧩 Delivered **B2B productivity, real estate, and subscription platforms** for 20+ global clients.  
-- 🔒 Advocate of **secure, maintainable, and test-driven** development.  
-- 🌍 Always bridging design, performance, and scalability — from concept to production.
+### *Delivering scalable systems, engineering clean architectures, and driving end-to-end product outcomes.*
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/laeeqthedev/laeeqthedev/main/assets/banner.png" width="95%" />
+</p>
 
-### 🏗️ Featured Projects
-
-#### **LLM-SaaS** — AI-Powered Learning Management Platform  
-🔹 Stack: Next.js 14, Supabase, Clerk, Stripe, Vapi AI  
-Built a full-stack AI LMS where users learn through **voice-based AI tutors (TTS + STT)**.  
-Integrated role-based access, real-time sync, and modular UI built with shadcn/ui + Tailwind.
-
-#### **Subme** — VIP Subscription Platform  
-🔹 Stack: Next.js, Node.js, Stripe  
-Enabled secure subscription workflows, dashboards, and analytics for 500+ paying users.  
-Optimized performance and role-based access for smooth business scaling.
-
-#### **Locopro** — Full-Stack Real Estate Platform  
-🔹 Stack: Next.js, Firebase, Tailwind CSS  
-Built responsive property listings with filtering, authentication, and admin management.  
-Focused on scalable architecture and reusable component design.
+> *“Velocity in execution. Precision in engineering. Discipline in delivery.”*
 
 ---
 
-### 🧰 Core Tech Stack
-**Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Zustand, ShadCN UI  
-**Backend:** Node.js, Express, MongoDB, Firebase, Supabase  
-**Other Tools:** Jest, GitHub Actions, Stripe, Figma, Postman, REST APIs  
+# 🚀 **Tech Stack**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,redis,graphql,prisma,tailwind,threejs,firebase,aws,git,github,vercel" />
+</p>
 
 ---
 
-### 🏆 Experience Highlights
-- **Nexora Systems** (2024–2025): Delivered B2B platform; reduced feature delivery cycle by 30%.  
-- **InvoiceStock** (2022–2024): Modernized SaaS stack (Next.js + TypeScript); improved efficiency by 40%.  
-- **Routelane** (2021–2022): Built real-time logistics dashboards integrated with Google Maps API.  
-- **Freelance (Upwork)** (2019–2021): Delivered 15+ full-stack projects for global startups and SMBs.
+# 🏆 **Stats & Activity**
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=laeeqthedev&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=laeeqthedev&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laeeqthedev&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laeeqthedev&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-### 🧩 Currently Exploring
-- Clean architecture patterns for Node.js  
-- Edge deployment with Vercel and Supabase  
-- AI integrations with OpenAI & Vapi SDK  
+# 🏗️ **Highlighted Projects (Interactive Cards)**
+
+### 🔹 **AI Resume Analyzer**
+
+> *AI-powered scoring, semantic evaluation, skill-gap mapping, ATS readiness predictions.*
+
+<p align="left">
+  <a href="https://github.com/laeeqthedev/ai-resume-analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=laeeqthedev&repo=ai-resume-analyzer&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
-### 📬 Let’s Connect
-📧 [laeeqahmed656@gmail.com](mailto:laeeqahmed656@gmail.com)  
-🔗 [Portfolio](https://laeeqthedevportfolio.vercel.app) | [LinkedIn](https://www.linkedin.com/in/syed-laeeq-ahmed) | [GitHub](https://github.com/laeeqahmed656)
+### 🔹 **InvoiceStock**
+
+> *Enterprise-level invoicing suite with barcodes, dynamic dashboards, roles & reporting.*
+
+<p align="left">
+  <a href="https://github.com/laeeqthedev/invoicestock">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=laeeqthedev&repo=invoicestock&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 🔹 **LLM-SaaS (Education Portal)**
+
+> *Conversational academic intelligence system powered by OpenAI + Vapi.*
+
+<p align="left">
+  <a href="https://github.com/laeeqthedev/LLM-Saas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=laeeqthedev&repo=LLM-Saas&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 🔹 **TWave**
+
+> *Headless eCommerce storefront with Payload CMS & Next.js.*
+
+<p align="left">
+  <a href="https://github.com/laeeqthedev/twave">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=laeeqthedev&repo=twave&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 🔹 **Locopro Client**
+
+> *Real estate listing platform with map filters, auth & admin management.*
+
+<p align="left">
+  <a href="https://github.com/laeeqthedev/locopro-client">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=laeeqthedev&repo=locopro-client&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+# 🎨 **3D Portfolio**
+
+> *Immersive personal branding experience built with React Three Fiber.*
+
+<p align="left">
+  <a href="https://github.com/laeeqthedev/3d-Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=laeeqthedev&repo=3d-Portfolio&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+# 🧭 **Current Mission**
+
+* Executing **WebflowX**: AI-powered workspace (video calls, tasks, docs, chat, automation)
+* Sharpening senior-level problem solving
+* Shipping new AI-backed products end-to-end
+* Scaling tech, business, and impact simultaneously
+
+---
+
+# 💼 **Professional Identity**
+
+A solutions-focused engineer who brings:
+
+* Enterprise-grade engineering discipline
+* Rapid prototyping velocity
+* Clean architectures
+* Ownership mentality
+* Zero-excuse delivery
+
+---
+
+# 🌍 **Connect**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/syed-laeeq-ahmed/">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:laeeqthedev@icloud.com">
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# 🧘 **Mindset**
+
+> *“Build relentlessly. Ship boldly. Iterate faster than excuses.”*
+
+
+✅ Add **visitor counter**
+Just say the word — I’ll ship it.
