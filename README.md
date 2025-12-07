@@ -1,154 +1,100 @@
-
-
-# 🎯 **Syed Laeeq — Full-Stack JavaScript Engineer (5+ Yrs)**
-
-### *Delivering scalable systems, engineering clean architectures, and driving end-to-end product outcomes.*
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/laeeqthedev/laeeqthedev/main/assets/banner.png" width="95%" />
-</p>
-
-> *“Velocity in execution. Precision in engineering. Discipline in delivery.”*
-
----
-
-# 🚀 **Tech Stack**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,redis,graphql,prisma,tailwind,threejs,firebase,aws,git,github,vercel" />
-</p>
-
----
-
-# 🏆 **Stats & Activity**
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=laeeqthedev&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=laeeqthedev&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=700&height=90&lines=👋+Hi,+I%27m+Syed+Laeeq+Ahmed;Full-Stack+JavaScript+Engineer;React+%2B+Next.js+%7C+TypeScript+%7C+AI+SaaS+Builder" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laeeqthedev&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://komarev.com/ghpvc/?username=laeeqthedev&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://img.shields.io/github/followers/laeeqthedev?label=Followers&style=flat&color=blue" />
+  <img src="https://img.shields.io/github/stars/laeeqthedev?label=Stars&style=flat&color=yellow" />
 </p>
 
+---
+
+# 🚀 Tech Stack
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=laeeqthedev&theme=tokyo-night&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,tailwind,threejs,firebase,git,github,vercel" />
 </p>
 
 ---
 
-# 🏗️ **Highlighted Projects (Interactive Cards)**
+# 🏗️ Pinned Projects
 
-### 🔹 **AI Resume Analyzer**
+### 🔹 AI Resume Analyzer  
+[Repository Link](https://github.com/laeeqthedev/ai-resume-analyzer)  
+AI-based Resume Analyzer built with React, TypeScript, and Claude AI integration. Provides resume analysis, feedback, and scoring.
 
-> *AI-powered scoring, semantic evaluation, skill-gap mapping, ATS readiness predictions.*
+---
 
-<p align="left">
-  <a href="https://github.com/laeeqthedev/ai-resume-analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=laeeqthedev&repo=ai-resume-analyzer&theme=tokyonight&hide_border=true" />
-  </a>
+### 🔹 InvoiceStock  
+[Repository Link](https://github.com/laeeqthedev/invoicestock)  
+A robust invoicing and inventory SaaS platform for small businesses. Features barcode scanning, dashboards, multi-currency support, and role-based access.
+
+---
+
+### 🔹 LLM-SaaS  
+[Repository Link](https://github.com/laeeqthedev/LLM-Saas)  
+AI-powered Learning Management System with voice-based AI tutors, real-time sync, and role-based access control.
+
+---
+
+### 🔹 Locopro Client  
+[Repository Link](https://github.com/laeeqthedev/locopro-client)  
+Full-stack real estate platform with property listings, filtering, authentication, and admin management. Optimized for scalability and reusability.
+
+---
+
+### 🔹 TWave  
+[Repository Link](https://github.com/laeeqthedev/twave)  
+Dynamic eCommerce storefront built with Payload CMS and Next.js. Features responsive product pages and scalable architecture.
+
+---
+
+### 🔹 3D Portfolio  
+[Repository Link](https://github.com/laeeqthedev/3d-Portfolio)  
+Interactive 3D portfolio website using Three.js and React Three Fiber for immersive personal branding experiences.
+
+---
+
+# 🏆 GitHub Stats
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=laeeqthedev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laeeqthedev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🔹 **InvoiceStock**
-
-> *Enterprise-level invoicing suite with barcodes, dynamic dashboards, roles & reporting.*
-
-<p align="left">
-  <a href="https://github.com/laeeqthedev/invoicestock">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=laeeqthedev&repo=invoicestock&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+# 💼 Professional Identity
+I am a results-driven full-stack engineer who:  
+- Operates with ownership and accountability  
+- Designs clean, scalable architectures  
+- Ships fast while maintaining engineering discipline  
+- Delivers product outcomes end-to-end  
+- Blends business thinking with technical execution  
 
 ---
 
-### 🔹 **LLM-SaaS (Education Portal)**
-
-> *Conversational academic intelligence system powered by OpenAI + Vapi.*
-
-<p align="left">
-  <a href="https://github.com/laeeqthedev/LLM-Saas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=laeeqthedev&repo=LLM-Saas&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+# 🧭 Current Mission
+- Executing **WebflowX** — full AI-powered workspace platform  
+- Mastering senior-level architecture + DS/Algo  
+- Expanding SaaS product ecosystem  
+- Scaling engineering leadership capabilities  
 
 ---
 
-### 🔹 **TWave**
-
-> *Headless eCommerce storefront with Payload CMS & Next.js.*
-
-<p align="left">
-  <a href="https://github.com/laeeqthedev/twave">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=laeeqthedev&repo=twave&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-### 🔹 **Locopro Client**
-
-> *Real estate listing platform with map filters, auth & admin management.*
-
-<p align="left">
-  <a href="https://github.com/laeeqthedev/locopro-client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=laeeqthedev&repo=locopro-client&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-# 🎨 **3D Portfolio**
-
-> *Immersive personal branding experience built with React Three Fiber.*
-
-<p align="left">
-  <a href="https://github.com/laeeqthedev/3d-Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=laeeqthedev&repo=3d-Portfolio&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-# 🧭 **Current Mission**
-
-* Executing **WebflowX**: AI-powered workspace (video calls, tasks, docs, chat, automation)
-* Sharpening senior-level problem solving
-* Shipping new AI-backed products end-to-end
-* Scaling tech, business, and impact simultaneously
-
----
-
-# 💼 **Professional Identity**
-
-A solutions-focused engineer who brings:
-
-* Enterprise-grade engineering discipline
-* Rapid prototyping velocity
-* Clean architectures
-* Ownership mentality
-* Zero-excuse delivery
-
----
-
-# 🌍 **Connect**
-
+# 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/syed-laeeq-ahmed/">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:laeeqthedev@icloud.com">
+  <a href="mailto:laeeqthedev@gmail.com">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://laeeqthedevportfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
 ---
 
-# 🧘 **Mindset**
-
-> *“Build relentlessly. Ship boldly. Iterate faster than excuses.”*
-
-
-✅ Add **visitor counter**
-Just say the word — I’ll ship it.
+# 🧘 Mindset
+> _“Execution solves everything. Consistency compounds. Build louder than you speak.”_
