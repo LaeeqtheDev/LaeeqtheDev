@@ -6,14 +6,21 @@
   <img src="https://komarev.com/ghpvc/?username=laeeqthedev&label=Profile%20Views&color=blueviolet&style=flat" />
   <img src="https://img.shields.io/github/followers/laeeqthedev?label=Followers&style=flat&color=blue" />
   <img src="https://img.shields.io/github/stars/laeeqthedev?label=Stars&style=flat&color=yellow" />
+  <img src="https://img.shields.io/github/repo-size/laeeqthedev/ai-resume-analyzer?style=flat&color=green" />
 </p>
 
 ---
 
-# 🚀 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,tailwind,threejs,firebase,git,github,vercel" />
-</p>
+# 🚀 About Me
+I am a **Frontend-focused Full-Stack JavaScript Developer** building scalable, high-performance web and SaaS applications. I specialize in:  
+
+- React.js, Next.js, TypeScript, Tailwind CSS  
+- Node.js, Express, MongoDB, Firebase, Supabase  
+- Modular, reusable UI systems & clean code practices  
+- AI integrations and modern SaaS architectures  
+- Delivering scalable solutions with role-based access and real-time features  
+
+I have 5+ years of experience delivering projects for global clients and remote teams while focusing on performance, maintainability, and user experience.
 
 ---
 
@@ -21,77 +28,75 @@
 
 ### 🔹 AI Resume Analyzer  
 [Repository Link](https://github.com/laeeqthedev/ai-resume-analyzer)  
-AI-based Resume Analyzer built with React, TypeScript, and Claude AI integration. Provides resume analysis, feedback, and scoring.
-
----
+AI-powered Resume Analyzer built with React, TypeScript, and Claude AI. Analyzes resumes, gives feedback, and scores CVs.
 
 ### 🔹 InvoiceStock  
 [Repository Link](https://github.com/laeeqthedev/invoicestock)  
-A robust invoicing and inventory SaaS platform for small businesses. Features barcode scanning, dashboards, multi-currency support, and role-based access.
-
----
+Robust invoicing & inventory SaaS for small businesses. Features dashboards, barcode scanning, multi-currency support, and role-based access.
 
 ### 🔹 LLM-SaaS  
 [Repository Link](https://github.com/laeeqthedev/LLM-Saas)  
-AI-powered Learning Management System with voice-based AI tutors, real-time sync, and role-based access control.
-
----
+AI-powered LMS with voice tutors, real-time sync, modular UI, and role-based access for students and teachers.
 
 ### 🔹 Locopro Client  
 [Repository Link](https://github.com/laeeqthedev/locopro-client)  
-Full-stack real estate platform with property listings, filtering, authentication, and admin management. Optimized for scalability and reusability.
-
----
+Full-stack real estate platform: property listings, filtering, authentication, admin management. Scalable architecture & reusable components.
 
 ### 🔹 TWave  
 [Repository Link](https://github.com/laeeqthedev/twave)  
-Dynamic eCommerce storefront built with Payload CMS and Next.js. Features responsive product pages and scalable architecture.
-
----
+Dynamic eCommerce storefront using Payload CMS and Next.js. Responsive product pages with scalable CMS architecture.
 
 ### 🔹 3D Portfolio  
 [Repository Link](https://github.com/laeeqthedev/3d-Portfolio)  
-Interactive 3D portfolio website using Three.js and React Three Fiber for immersive personal branding experiences.
+Interactive 3D portfolio built with Three.js and React Three Fiber. Immersive personal branding experience.
 
 ---
 
-# 🏆 GitHub Stats
+# 🧰 Core Tech Stack
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=laeeqthedev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laeeqthedev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,tailwind,threejs,firebase,git,github,vercel" />
 </p>
 
----
-
-# 💼 Professional Identity
-I am a results-driven full-stack engineer who:  
-- Operates with ownership and accountability  
-- Designs clean, scalable architectures  
-- Ships fast while maintaining engineering discipline  
-- Delivers product outcomes end-to-end  
-- Blends business thinking with technical execution  
+- **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Zustand, ShadCN UI  
+- **Backend:** Node.js, Express, MongoDB, Firebase, Supabase  
+- **Other Tools:** Jest, GitHub Actions, Stripe, Figma, Postman, REST APIs  
 
 ---
 
-# 🧭 Current Mission
-- Executing **WebflowX** — full AI-powered workspace platform  
-- Mastering senior-level architecture + DS/Algo  
-- Expanding SaaS product ecosystem  
-- Scaling engineering leadership capabilities  
+# 🏆 Achievements & Highlights
+- 16+ public repositories demonstrating modern SaaS and web solutions  
+- Delivered 20+ full-stack projects for global clients  
+- Cut app load times by 28% and reduced post-release bugs by 25% via reusable UI systems & clean code  
+- Advocate of secure, maintainable, and test-driven development  
 
 ---
 
 # 🌐 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/syed-laeeq-ahmed/">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:laeeqthedev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://laeeqthedevportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  <a href="https://github.com/laeeqthedev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# 🔖 Fun Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/Top%20Technologies-React-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/TypeScript-Advanced-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Next.js-Expert-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Firebase-Proficient-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/MongoDB-Experienced-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/TailwindCSS-Advanced-teal?style=flat-square" />
 </p>
 
 ---
