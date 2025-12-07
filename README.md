@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=700&height=90&lines=👋+Hi,+I%27m+Syed+Laeeq+Ahmed;Full-Stack+JavaScript+Engineer;React+%2B+Next.js+%7C+TypeScript+%7C+AI+SaaS+Builder" />
+<img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=900&height=120&lines=👋+Hi,+I%27m+Syed+Laeeq+Ahmed;Full-Stack+JavaScript+Engineer;Next.js+%2B+React+%7C+TypeScript+%7C+AI+SaaS+Builder" />
+
 </p>
 
 <p align="center">
