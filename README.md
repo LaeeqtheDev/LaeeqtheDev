@@ -1,99 +1,96 @@
+<h1 align="center">Syed Laeeq Ahmed</h1>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=900&height=120&lines=👋+Hi,+I%27m+Syed+Laeeq+Ahmed;Frontend-Led+Full+Stack+Engineer;Next.js+%7C+TypeScript+%7C+React+%7C+Convex;Building+AI-Powered+SaaS+Platforms" />
+  <strong>Full-Stack JavaScript Developer</strong><br>
+  Next.js · TypeScript · React · Node.js · Convex — building multi-tenant, AI-powered SaaS
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=laeeqthedev&label=Profile%20Views&color=blueviolet&style=flat" />
-  <img src="https://img.shields.io/github/followers/laeeqthedev?label=Followers&style=flat&color=blue" />
-  <img src="https://img.shields.io/github/stars/laeeqthedev?label=Stars&style=flat&color=yellow" />
-</p>
-
----
-
-# 🚀 About Me
-
-I build scalable, AI-powered SaaS platforms with clean architecture and real-world impact.
-
-5+ years across B2B and product-driven teams — specializing in multi-tenant systems, real-time dashboards, and role-based access controls using Next.js, TypeScript, React, and Node.js.
-
-- Cut CI build times by **45%** by re-architecting Next.js + Node.js microservices
-- Reduced API latency by **25–30%** through GraphQL implementation with server-side caching
-- Shrunk frontend bundle sizes by **28%** via migration to Next.js + TypeScript + Zustand
-- Delivered shared UI systems reused across **8+ modules** in production SaaS platforms
-
-Currently building **WebflowX** — an AI-powered team workspace combining real-time chat, video calling, task management, and AI automation using Next.js, Convex, WebRTC, and OpenAI.
-
----
-
-# 🏗️ Featured Projects
-
-### 🔹 WebflowX — AI-Powered Team Workspace
-[Repository Link](https://github.com/LaeeqtheDev/WebflowX)
-Full-stack AI SaaS platform built from scratch. Combines real-time chat, video calling, task management, and AI-powered meeting summaries in one unified workspace. Built with Next.js, TypeScript, Convex, WebRTC, OpenAI, and Clerk.
-
-### 🔹 AI Resume Analyzer
-[Repository Link](https://github.com/LaeeqtheDev/Ai-resume-anlayzer) · [Live Demo](https://ai-resume-anlayzer.vercel.app)
-AI-powered resume evaluation tool that matches resumes against job descriptions, calculates ATS compatibility scores, identifies missing keywords, and delivers actionable improvement suggestions using Claude AI and NLP intelligence.
-
-### 🔹 LLM-SaaS — AI-Powered Learning Management System
-[Repository Link](https://github.com/LaeeqtheDev/LLM-Saas) · [Live Demo](https://llm-saas.vercel.app)
-Modern educational platform powered by OpenAI and Vapi. Students interact with AI voice tutors, view enrolled courses, grades, attendance, and timetables using natural language queries.
-
-### 🔹 Subme — Creator Subscription Platform
-[Repository Link](https://github.com/LaeeqtheDev/Subme)
-Full-stack monetization platform enabling creators to offer tiered content to paying subscribers. Integrated Stripe for recurring payments and built a real-time creator dashboard with live earnings analytics.
-
-### 🔹 Locopro — Real Estate Listing Platform
-[Repository Link](https://github.com/LaeeqtheDev/locopro-client) · [Live Demo](https://locopro-client.vercel.app)
-Responsive real estate platform with advanced search filters, image galleries, Firebase authentication, and a full admin dashboard for property management.
-
-### 🔹 3D Portfolio — Immersive Personal Branding
-[Repository Link](https://github.com/LaeeqtheDev/3d-Portfolio)
-Interactive 3D portfolio built with Three.js and React Three Fiber. Immersive visuals, smooth animations, and a unique browsing experience that goes beyond a traditional portfolio.
-
----
-
-# 🧰 Core Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,tailwind,threejs,firebase,git,github,vercel,docker" />
-</p>
-
-- **Frontend:** Next.js · React · TypeScript · Tailwind CSS · Zustand · ShadCN UI
-- **Backend:** Node.js · Express · Convex · MongoDB · GraphQL · REST APIs
-- **AI & Integrations:** OpenAI · Gemini · Claude AI · Vapi · WebRTC · Stripe · Clerk
-- **DevOps & Testing:** Docker · Jest · Playwright · GitHub Actions · CI/CD
-
----
-
-# 🏆 Achievements & Highlights
-
-- ⚡ Cut CI build times **45%** & API latency **30%** across production B2B SaaS platforms
-- 📦 Delivered **20+ full-stack projects** for global remote clients
-- 🤖 Built and shipped **6+ public AI and SaaS projects** independently
-- 🏗️ Led frontend architecture across distributed teams at Nexora Systems & InvoiceStock
-- ✅ Advocate of clean architecture, test-driven development, and scalable systems
-
----
-
-# 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/syed-laeeq-ahmed/">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:laeeqthedev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://laeeqthedevportfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/laeeqthedev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://laeeqthedevportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/syed-laeeq-ahmed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:laeeqthedev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-# 🧘 Mindset
-> _"Execution solves everything. Consistency compounds. Build louder than you speak."_
+## About
+
+I design and ship production SaaS platforms end to end — architecture, auth and RBAC, data modelling, CI/CD, and the frontend people actually use.
+
+Most of my work sits in the same shape: **multi-tenant systems** where teams share one product but must never share data, with real-time features and LLM capabilities layered on top. I care about the unglamorous parts — build times, bundle size, test coverage, latency — because those are what decide whether a product still ships well in year two.
+
+- 🏗️ Founder & Lead Engineer at **North Foundry**, an independent software studio
+- 🌍 Based in Lahore, Pakistan · working remotely with clients across the UK, US and EU
+- 💼 Open to remote roles and EU relocation
+- 🎓 BSc Computer Science, The University of Lahore
+
+---
+
+## Selected Work
+
+### Converso — AI-Powered Learning Platform
+Students build their own AI voice tutors and learn by talking to them. Real-time TTS/STT through the Vapi SDK, subscription billing and role-based gating via Clerk and Stripe, Sentry for error monitoring.
+`Next.js` `Supabase/PostgreSQL` `Clerk` `Vapi AI` `Stripe`
+[Code](https://github.com/LaeeqtheDev/LLM-Saas) · [Live](https://llm-saas.vercel.app)
+
+### WebflowX — AI Team Workspace
+Multi-tenant productivity platform built from scratch: real-time team chat and video calling, task management, and AI meeting summaries in one workspace. Organisation-level RBAC with strict tenant data isolation.
+`Next.js` `TypeScript` `Convex` `WebRTC` `OpenAI` `Gemini`
+[Code](https://github.com/LaeeqtheDev/WebflowX)
+
+### Resumind — AI Resume Analysis
+Scores a resume against a job description for ATS compatibility and surfaces missing keywords. In-browser PDF parsing with strict-JSON model output so results stay structured and comparable.
+`React Router 7` `Puter.js` `TypeScript`
+[Code](https://github.com/LaeeqtheDev/Resumind)
+
+### InvoiceStock — Invoicing & Inventory SaaS
+Invoicing platform for small businesses: barcode scanning, PDF generation, email automation, multi-currency support and real-time reporting, on top of multi-tenant data isolation and RBAC.
+`Next.js` `TypeScript` `Zustand` `Node.js`
+[Code](https://github.com/LaeeqtheDev/invoicestock)
+
+### Subme — Tiered Creator Subscriptions
+Three-tier membership system with Stripe recurring payments, RBAC content gating, and a creator dashboard with live earnings analytics.
+`Next.js` `Stripe` `Clerk` `TypeScript`
+[Code](https://github.com/LaeeqtheDev/Subme)
+
+### 3D Interactive Portfolio
+Immersive personal site built with Three.js and React Three Fiber — WebGL scenes, scroll-driven animation, and a browsing experience that isn't another card grid.
+`Three.js` `React Three Fiber` `JavaScript`
+[Code](https://github.com/LaeeqtheDev/3d-Interactive-Portfolio)
+
+---
+
+## Engineering Impact
+
+| Outcome | Where |
+|---|---|
+| **45%** faster CI builds — re-architected Next.js + Node.js microservices and deployment pipelines | Nexora Systems |
+| **25–30%** lower API latency — GraphQL with server-side caching | Nexora Systems |
+| **28%** smaller frontend bundle — migration to Next.js, TypeScript and Zustand | InvoiceStock |
+| **25%** fewer post-release defects — Playwright + Jest coverage on critical flows | Nexora Systems |
+| **~20%** faster feature delivery — shared shadcn/ui + Tailwind component library across 8+ modules | Nexora Systems |
+
+---
+
+## Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,graphql,mongodb,postgres,tailwind,threejs,firebase,git,githubactions,vercel,docker" alt="Tech stack">
+</p>
+
+**Frontend** — Next.js (App Router) · React · TypeScript · Tailwind CSS · shadcn/ui · Zustand · Redux
+**Backend** — Node.js · Express · REST · GraphQL · Convex · WebRTC · SSR & server-side caching
+**Data** — PostgreSQL · MongoDB · Supabase · Firebase
+**Auth & Security** — Clerk · JWT · OAuth · RBAC · multi-tenant isolation
+**AI** — OpenAI · Google Gemini · Vapi AI (TTS/STT) · Google Speech API
+**Testing & DevOps** — Jest · Playwright · GitHub Actions · CI/CD · Docker
+
+---
+
+## Working With Me
+
+I'm most useful on greenfield SaaS builds and on codebases that have outgrown their first architecture — the point where auth, tenancy and build times all need rethinking at once. I run code reviews, write the documentation, and prefer boring, testable solutions over clever ones.
+
+**Open to:** full-stack roles (remote or EU-based) · studio work through North Foundry · technical consulting
+
+📫 **[laeeqthedev@gmail.com](mailto:laeeqthedev@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/syed-laeeq-ahmed/) · [Portfolio](https://laeeqthedevportfolio.vercel.app/)
