@@ -1,7 +1,7 @@
 <h1 align="center">Syed Laeeq Ahmed</h1>
 
 <p align="center">
-  <strong>Full-Stack Lead Engineer @ North Foundry</strong><br>
+  <strong>Full-Stack Engineer @ North Foundry</strong><br>
   Next.js · TypeScript · React · Convex · Node · CI/CD · Role-Based Systems<br>
   Building scalable B2B SaaS platforms.
 </p>
