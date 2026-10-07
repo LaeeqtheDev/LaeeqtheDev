@@ -1,132 +1,103 @@
 <h1 align="center">Syed Laeeq Ahmed</h1>
 
 <p align="center">
-  <strong>Full-Stack Engineer @ North Foundry</strong><br>
-  Next.js · TypeScript · React · Convex · Node · CI/CD · Role-Based Systems<br>
-  Building scalable B2B SaaS platforms.
+  <b>Full-Stack Engineer</b><br/>
+  React, Next.js, TypeScript, Node.js · Multi-tenant SaaS · AI integrations
 </p>
 
 <p align="center">
-  <a href="https://laeeqthedevportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://laeeqthedevportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/syed-laeeq-ahmed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:laeeqthedev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:laeeqthedev@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://laeeqthedevportfolio.vercel.app/Syed-Laeeq-Ahmed-CV.pdf"><img src="https://img.shields.io/badge/Resume-PDF-0072FF?style=for-the-badge" alt="Resume PDF"></a>
 </p>
 
 ---
 
-## About
+I'm a full-stack engineer with 5+ years of experience shipping production web applications for UK and US teams, much of it alongside a BSc in Computer Science. I work end to end: React and Next.js front ends, Node.js REST and GraphQL APIs, PostgreSQL, multi-tenant SaaS with role-based access control, real-time WebRTC features, CI/CD and LLM integrations.
 
-Full-Stack JavaScript Developer with **7+ years** of professional and freelance experience building and scaling SaaS products for **20+ clients** across the UK, US and Europe.
+I'm the Founder & Lead Engineer at [North Foundry](https://northfoundry.co), a small software studio.
 
-I started taking client work remotely in 2019, at 17, and have worked continuously since — through A Levels and then alongside my Computer Science degree, which I completed in June 2026. Balancing full-time remote delivery with full-time study for four years taught me the habits I still work by: scope honestly, automate anything repeated, and write it down so the next person isn't blocked at 2am.
+**Open to full-time engineering roles**: remote (contract or employer of record) or relocation. Based in Lahore, UTC+5, with daily overlap with UK/EU and US teams.
 
-The work keeps returning to one shape: **multi-tenant SaaS**, where many organisations share one product and must never share a byte of data. Around that I build auth and RBAC, real-time collaboration, payment flows and LLM features — plus the unglamorous parts, because build times, bundle size, latency and test coverage decide whether a codebase is still pleasant to ship in year two.
+---
 
-- 🏗️ Founder & Lead Engineer at **North Foundry**, an independent software studio
-- 🌍 Lahore, Pakistan — remote delivery for UK, US and EU clients
-- 💼 Open to remote roles and EU relocation
-- 🎓 BSc Computer Science, The University of Lahore (2022–2026)
+## Selected work
+
+### Sentinel: biometric parking access control
+
+[Code](https://github.com/LaeeqtheDev/Sentinel-Biometric-Parking-System) · [Live app](https://sentinel-biometric-parking-system.vercel.app) (a demo login is shown on the sign-in page)
+
+- License-plate OCR opens a parking session, and drivers authorize their exit with device-bound WebAuthn passkeys, so fingerprint and face checks stay on the phone.
+- Sessions are a state machine with duplicate-entry rejection, capacity enforcement and an audit log of every gate action and admin override.
+- Django REST Framework on Oracle Cloud, Next.js and TypeScript on Vercel.
+
+### StillWater: Android mental-health companion
+
+[Code](https://github.com/LaeeqtheDev/StillWater-Mental-Health-Fitness-App) · [Android release](https://github.com/LaeeqtheDev/StillWater-Mental-Health-Fitness-App/releases)
+
+- Mood tracking, journaling, guided breathing, a biometric app lock and an AI companion that references the user's own entries.
+- Safety is enforced server-side in layers: all inference routes through the Express backend, risk is classified before generation, crisis escalation takes the conversation away from the model, and every route is rate limited.
+- React Native, Expo, Node.js, Express, Firebase Authentication, Groq.
+
+### WebflowX: team workspace SaaS
+
+[Code](https://github.com/LaeeqtheDev/WebflowX) · [Live app](https://webflow-x.vercel.app)
+
+- Chat, tasks, documents, meetings and AI summaries in one multi-tenant workspace, built from an existing design during a contract role (Oct 2025 to Jun 2026). The product is now part of North Foundry.
+- Real-time team chat and video calling on Convex live queries and WebRTC, with AI meeting summaries returned as validated structured JSON.
+- Organization-level RBAC, tenant data isolation and plan-based usage limits across four subscription tiers.
+
+### 3D Interactive Portfolio
+
+[Code](https://github.com/LaeeqtheDev/3d-Interactive-Portfolio) · [Live site](https://laeeqthedevportfolio.vercel.app)
+
+- Performance and architecture work on a React Three Fiber scene: route-level code splitting with idle prefetch, a separate Three.js vendor chunk, canvases that stop rendering when offscreen, and a self-hosted model decoder and fonts so no third-party request sits in front of first paint.
+- The README documents each decision, the measured bundle sizes and the trade-offs, and credits the tutorial and models the scene started from.
 
 ---
 
 ## Experience
 
-| Role | Company | Period |
+| Role | Company | Dates |
 |---|---|---|
-| Founder & Lead Engineer | **North Foundry** · Remote | Jul 2026 – Present |
-| Full-Stack Engineer | **Webflow X** · Remote | Oct 2025 – Jun 2026 |
-| Full-Stack Engineer | **Nexora Systems** · Greater London, UK | Jul 2024 – Oct 2025 |
-| Full-Stack Engineer | **InvoiceStock** · Wolverhampton, UK | Jul 2022 – Jun 2024 |
-| Senior Frontend Developer | **Routelane** · Missouri, USA | Mar 2021 – Jun 2022 |
-| Freelance Web Developer | **Upwork** · Remote | Jun 2019 – Feb 2021 |
+| Founder & Lead Engineer | [North Foundry](https://northfoundry.co) | Jul 2026 - Present |
+| Full-Stack Engineer (Contract) | WebflowX | Oct 2025 - Jun 2026 |
+| Full-Stack Engineer | Nexora Systems, Greater London, UK (remote) | Jul 2024 - Oct 2025 |
+| Full-Stack Engineer | InvoiceStock, Wolverhampton, UK (remote) | Jul 2022 - Jun 2024 |
+| Frontend Developer | Routelane, Missouri, USA (remote) | Mar 2021 - Jun 2022 |
+| Freelance Web Developer | Upwork | Jun 2019 - Feb 2021 |
 
-*All roles remote. Worked alongside A Levels (2018–2021) and a full-time BSc (2022–2026).*
+A few results from that work:
 
----
-
-## Shipped Products
-
-> Live links, not screenshots. Open any of them right now.
-
-### 🎓 Converso — AI Voice Tutors
-Students create their own AI tutors and learn by *talking* to them. Real-time speech in and out through the Vapi SDK, subscription billing and role-gated content via Clerk and Stripe, Sentry monitoring on the paths that matter.
-
-`Next.js` `Supabase / PostgreSQL` `Clerk` `Vapi AI` `Stripe`
-
-**[▶ Live](https://converso-ai-saas-liart.vercel.app)** · [Source](https://github.com/LaeeqtheDev/LLM-Saas)
-
-### 🧩 WebflowX — AI Team Workspace
-Multi-tenant productivity platform built from an empty repo: real-time team chat, WebRTC video calling, task management and AI meeting summaries. Organisation-level RBAC with tenant isolation enforced at the data layer, not the UI.
-
-`Next.js` `TypeScript` `Convex` `WebRTC` `OpenAI` `Gemini`
-
-**[▶ Live](https://webflow-x.vercel.app)** · [Source](https://github.com/LaeeqtheDev/WebflowX)
-
-### 📄 Resumind — AI Resume Analysis
-Paste a job description, upload a resume, get an ATS compatibility score and the exact keywords you're missing. PDF parsing runs in the browser and the model is constrained to strict JSON, so results stay structured and comparable instead of drifting into prose.
-
-`React Router 7` `Puter.js` `TypeScript`
-
-**[▶ Live](https://ai-resume-anlayzer.vercel.app)** · [Source](https://github.com/LaeeqtheDev/Resumind)
-
-### 🧾 InvoiceStock — Invoicing & Inventory SaaS
-Built for small businesses running on spreadsheets: barcode scanning, PDF invoice generation, email automation, multi-currency and live reporting — on multi-tenant data isolation and RBAC from day one. Cut manual processing for clients by ~40%.
-
-`Next.js` `TypeScript` `Zustand` `Node.js`
-
-**[▶ Live](https://invoicestock-fin-bice.vercel.app)** · [Source](https://github.com/LaeeqtheDev/invoicestock)
-
-### 💳 Subme — Tiered Creator Subscriptions
-Three-tier membership with Stripe recurring payments, RBAC content gating and a live earnings dashboard. The interesting problem was entitlement — making upgrades, downgrades and lapsed payments resolve correctly and immediately.
-
-`Next.js` `Stripe` `Clerk` `TypeScript`
-
-**[▶ Live](https://subme-bay.vercel.app)** · [Source](https://github.com/LaeeqtheDev/Subme)
-
-### 🌐 3D Interactive Portfolio
-Personal site built as a WebGL scene rather than a card grid — Three.js and React Three Fiber, scroll-driven animation, held to a performance budget that survives a mid-range phone.
-
-`Three.js` `React Three Fiber` `JavaScript`
-
-**[▶ Live](https://laeeqthedevportfolio.vercel.app)** · [Source](https://github.com/LaeeqtheDev/3d-Interactive-Portfolio)
-
----
-
-## Engineering Impact
-
-| Result | Approach | Where |
-|---|---|---|
-| **45%** faster CI builds | Re-architected Next.js + Node.js microservices and deployment pipelines | Nexora Systems |
-| **25–30%** lower API latency | GraphQL layer with server-side caching strategy | Nexora Systems |
-| **25%** fewer post-release defects | Playwright + Jest coverage across critical user flows | Nexora Systems |
-| **~20%** faster feature delivery | Shared shadcn/ui + Tailwind library across 8+ platform modules | Nexora Systems |
-| **28%** smaller frontend bundle | Migration to Next.js, TypeScript and Zustand | InvoiceStock |
-| **40%** less manual processing | Barcode scanning, PDF generation and email automation | InvoiceStock |
-| **20–25%** better dispatch efficiency | Real-time driver/load tracking with Firebase + Google Maps API | Routelane |
+- Delivered web and SaaS projects for 12+ clients at North Foundry, including the [PeakHawks](https://growth.peakhawks.com) marketing platform on Next.js 15, Sanity CMS and GoHighLevel.
+- WebflowX onboarded 100+ teams.
+- At InvoiceStock, migrated the frontend to Next.js, TypeScript and Zustand, cutting bundle size 28%, and built multi-tenant data isolation and RBAC serving 50+ SMB customers.
+- At Nexora Systems, created a shared shadcn/ui and Tailwind CSS component library adopted across 8+ platform modules.
 
 ---
 
 ## Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,graphql,mongodb,postgres,tailwind,threejs,firebase,git,githubactions,vercel,docker" alt="Tech stack">
-</p>
-
-**Frontend** — Next.js (App Router) · React · TypeScript · Tailwind CSS · shadcn/ui · Zustand · Redux
-**Backend** — Node.js · Express · REST · GraphQL · Convex · WebRTC · SSR & server-side caching
-**Data** — PostgreSQL · MongoDB · Supabase · Firebase
-**Auth & Security** — Clerk · JWT · OAuth · RBAC · multi-tenant isolation
-**AI** — OpenAI · Google Gemini · Vapi AI (TTS/STT) · Google Speech API
-**Testing & DevOps** — Jest · Playwright · GitHub Actions · CI/CD · Docker
+- **Languages and frontend:** TypeScript, JavaScript, Python, React, Next.js, React Native, Redux, Zustand, Tailwind CSS, HTML5, CSS3
+- **Backend and APIs:** Node.js, Express, REST APIs, GraphQL, Django REST Framework, Microservices, WebRTC, Server-Side Caching
+- **Databases and cloud:** PostgreSQL, MongoDB, Supabase, Convex, Firebase, AWS (EC2, S3, CloudFront, RDS), Oracle Cloud, Vercel
+- **Auth and security:** JWT, OAuth, WebAuthn/Passkeys, Role-Based Access Control (RBAC), Multi-Tenant Architecture, Data Isolation
+- **AI and integrations:** OpenAI API, Google Gemini, Groq, Vapi AI, LLM Integration, Structured Output, Stripe, Sanity CMS
+- **Testing and DevOps:** Jest, Playwright, Git, GitHub Actions, CI/CD, Docker, Agile/Scrum, System Design, Code Review
 
 ---
 
-## Working With Me
+## Also here
 
-I'm most useful on **greenfield SaaS builds**, where early architecture decisions shape everything that follows, and on **codebases that have outgrown their first design** — the point where tenancy, auth and build times all need rethinking at once.
+- [Converso](https://github.com/LaeeqtheDev/Converso): AI voice tutoring platform on Next.js, Supabase, Clerk and Vapi, with Row Level Security and Zod-validated model output. [Live app](https://converso-ai-saas-liart.vercel.app)
+- [Locopro](https://github.com/northfoundrystudio/locopro-client): real estate listing platform with filters, authentication and an admin panel. [Live app](https://locopro-client.vercel.app)
+- [Axen](https://github.com/northfoundrystudio/Axen-Gsap): scroll-driven 3D storytelling with Next.js, GSAP and Three.js. [Live site](https://axen-gsap.vercel.app)
 
-I own delivery end to end: system design, implementation, code review, documentation, deployment. I prefer boring and testable over clever, and I'd rather flag a bad estimate early than explain a missed deadline later.
+---
 
-**Open to** — full-stack roles (remote or EU-based) · client work through North Foundry · technical consulting
-
-📫 **[laeeqthedev@gmail.com](mailto:laeeqthedev@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/syed-laeeq-ahmed/) · [Portfolio](https://laeeqthedevportfolio.vercel.app/)
+<p align="center">
+  <a href="mailto:laeeqthedev@gmail.com">laeeqthedev@gmail.com</a> ·
+  <a href="https://laeeqthedevportfolio.vercel.app">laeeqthedevportfolio.vercel.app</a> ·
+  <a href="https://www.linkedin.com/in/syed-laeeq-ahmed/">linkedin.com/in/syed-laeeq-ahmed</a>
+</p>
